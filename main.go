@@ -39,5 +39,3 @@ func IntMin(a,b int) int {
 	}
 	return b
 }
-
-#test
